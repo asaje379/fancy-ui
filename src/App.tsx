@@ -2,8 +2,8 @@ import { Button } from './lib';
 
 const App = () => {
   return (
-    <div>
-      <Button />
+    <div className="p-8">
+      <Button>Click me</Button>
     </div>
   );
 };
